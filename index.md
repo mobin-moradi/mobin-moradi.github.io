@@ -19,7 +19,7 @@ mm.mobin.moradi@gmail.com
 
 ## Curriculum Vitae
 
-[Short CV](https://drive.google.com/file/d/1CvrIeDPnjoudGFKB-urI3dtxXgU8tDVz/view?usp=sharing)
+[Short CV](https://drive.google.com/file/d/1Q00Q-iVR6V5C1KzeD9yTl9_5B5xIcSg0/view?usp=sharing)
 
 [Long CV](/LongCV)
 
