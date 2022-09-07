@@ -22,7 +22,7 @@ Iranian Young Scholars Club (2017-2018)
  - *University Level Courses: Statistical Mechanics, Special Relativity, Optics, Electromagnetism, Classical Mechanics, Fluid Mechanics,
    Optics Laboratory, Experimental Physics*
    
-  - *Qualified for Iran’s five-person team in International Physics Olympiad.*
+  - *Qualified as a member of Iran's team in the International Physics Olympiad.*
 
 **Diploma in Mathematics and Physics**
 
@@ -34,7 +34,7 @@ Allameh Helli High School (2016-2018)
 
 Oct. 2021- Sep. 2022
 
-*To learn advanced topics, I decided to withdraw from the last semester. During this time, I strengthened my background in general relativity and quantum field theory. I studied group theory and the structure of gauge theories. Later, I moved to learn string theory and conformal field theory. Then I got interested in Polyakov's ideas and decided to put my effort to learn the basics of condensed matter physics.*
+*To learn advanced topics, I decided to withdraw from the last semester. During this time, I strengthened my background in general relativity and quantum field theory. I studied group theory and the structure of gauge theories. Later, I moved to learn string theory and conformal field theory. Then I got interested in Polyakov's ideas and decided to put my effort into learning the basics of condensed matter physics.*
 
 **Research Assistant**
 
@@ -42,7 +42,7 @@ Sharif University
 
 Feb. 2021-Oct. 2021
 
-*At first, I studied prerequisite materials like quantum chaos, ETH, and random matrix theory. Then I went to study the path integral quantization of JT gravity and its black hole solutions. We had weekly and monthly meetings under the supervision of Dr. Faraji.*
+*At first, I studied quantum chaos, ETH, and random matrix theory. Then I went to study the path integral quantization of JT gravity and its black hole solutions. We had weekly and monthly meetings under the supervision of Dr. Faraji.*
 
 **Research Experience in Mathematics**
 
@@ -59,7 +59,7 @@ Krakow, Poland (Remote)
 
 July 2020
 
-*I attended lectures on particle physics, particle accelerators, particle detectors, statistical methods, ROOT, and Hypatia. Then we were assigned to our supervisors to work on selected projects. In an ultra-peripheral heavy-ion collision, two ions could interact by exchanging photons. This process could be accompanied by neutron emissions and particle production. We used 2020 ATLAS data to calculate the cross-section of mutual excitation for light-by-light scattering with neutron emissions. Our results were presented at the International Conference of High Energy Physics.*
+*I attended several lectures on particle physics, particle accelerators, particle detectors, statistical methods, ROOT, and Hypatia. Then we were assigned to our supervisors to work on selected projects. In an ultra-peripheral heavy-ion collision, two ions could interact by exchanging photons. This process could be accompanied by neutron emissions and particle production. We used 2020 ATLAS data to calculate the cross-section of mutual excitation for light-by-light scattering with neutron emissions. Our results were presented at the International Conference of High Energy Physics.*
 
 *You can see the final presentation [here](https://drive.google.com/file/d/1zu3k6mvgGwoZEw99uvXuk2yqzAgP8eSu/view?usp=sharing)*.
 
@@ -99,16 +99,15 @@ National Physics Olympiad
 
 Spring 2022
 
- - *Instructed the discussion classes.  Writing solution manuals. Graded
+ - *Instructing the discussion classes.  Writing solution manuals. Grading
    assignments.*
 
 **Advanced General Relativity Course**
 
 Jan. 2021- Oct. 2021
 
- - *I lectured almost all materials of Wald's general relativity textbook
-   in a student study circle. The second half of the book was
-   challenging and we managed to overcome it with numerous discussions
+ - *I lectured almost all the materials of Wald's general relativity textbook
+   in a student study circle. We had numerous discussions
    in our class. Answers to unsolved questions proposed in the class
    were given in the [course web page](https://github.com/mobin-moradi/gr-study-circle).*
 
@@ -143,7 +142,7 @@ Jan. 2018 - Sep. 2019
 
 ## Relevant Coursework
 
-**General Relativity, Quantum Field Theory I, Advanced Mathematical Physics, Geometry of Manifolds, Cosmology I, Advanced Statistical Physics, Advanced Electromagnetism, Elementary Differential Geometry,  Real Analysis, Fourier Analysis, Complex Functions, Algebraic Geometry.**
+**General Relativity, Quantum Field Theory I, Advanced Mathematical Physics, Geometry of Manifolds, Cosmology I, Advanced Statistical Physics, Advanced Electromagnetism, Elementary Differential Geometry,  Real Analysis, Fourier Analysis, Complex Functions.**
 
 ## Other Activities
 
