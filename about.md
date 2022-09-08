@@ -191,6 +191,15 @@ March 2018
 
 **ROOT, Linux, Git, C/C++, Python, MATLAB, LaTeX, Mathematica.**
 
+*Passed Courses:*
+
+ *- Advanced Python Programming and Object-Oriented Thinking Course*
+ 
+ *- Programming using MATLAB (60 educational hours)*
+ 
+ *- Task-Oriented Course in Fundamentals of C Programming and Algorithmic
+   Thinking*
+
 ## Language Skills
 
 **English: Fluent.**
