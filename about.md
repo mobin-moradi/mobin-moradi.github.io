@@ -3,6 +3,7 @@ layout: home
 title:
 permalink: /LongCV/
 ---
+
 ## Education
 
 **Bachelor of Science in Physics**
@@ -34,7 +35,13 @@ Allameh Helli High School (2016-2018)
 
 Oct. 2021- Sep. 2022
 
-*To learn advanced topics, I decided to withdraw from the last semester. During this time, I strengthened my background in general relativity and quantum field theory. I studied group theory and the structure of gauge theories. Later, I moved to learn string theory and conformal field theory. Then I got interested in Polyakov's ideas and decided to put my effort into learning the basics of condensed matter physics.*
+ - *To learn advanced topics, I decided to withdraw from the last
+   semester. During this time, I strengthened my background in general
+   relativity and quantum field theory. I studied group theory and the
+   structure of gauge theories. Later, I moved to learn string theory
+   and conformal field theory. Then I got interested in Polyakov's ideas
+   and decided to put my effort into learning the basics of condensed
+   matter physics.*
 
 **Research Assistant**
 
@@ -42,7 +49,10 @@ Sharif University
 
 Feb. 2021-Oct. 2021
 
-*At first, I studied quantum chaos, ETH, and random matrix theory. Then I went to study the path integral quantization of JT gravity and its black hole solutions. We had weekly and monthly meetings under the supervision of Dr. Faraji.*
+ - *At first, I studied quantum chaos, ETH, and random matrix theory.
+   Then I went to study the path integral quantization of JT gravity and
+   its black hole solutions. We had weekly and monthly meetings under
+   the supervision of Dr. Faraji.*
 
 **Research Experience in Mathematics**
 
@@ -50,8 +60,13 @@ HSE University (Remote)
 
 Aug. 2020- Jan. 2021
 
-*I learned the basic formulation of the Sine-Gordon and Sinh-Gordon models and calculated their partition functions. Then I got to learn the S-matrix theory of two-dimensional integrable models away from the critical point, in which deriving the exact spectrum is possible and leads to the Yang-Baxter equation and Faddev-Zamolodchikov algebra. This work was done under the supervision of Dr. Andrew Semenov.*
-
+ - *I learned the basic formulation of the Sine-Gordon and Sinh-Gordon
+   models and calculated their partition functions. Then I got to learn
+   the S-matrix theory of two-dimensional integrable models away from
+   the critical point, in which deriving the exact spectrum is possible
+   and leads to the Yang-Baxter equation and Faddev-Zamolodchikov
+   algebra. This work was done under the supervision of Dr. Andrew
+   Semenov.*
 
 **IFJ PAN Particle Physics Summer Student Program**
 
@@ -59,7 +74,15 @@ Krakow, Poland (Remote)
 
 July 2020
 
-*I attended several lectures on particle physics, particle accelerators, particle detectors, statistical methods, ROOT, and Hypatia. Then we were assigned to our supervisors to work on selected projects. In an ultra-peripheral heavy-ion collision, two ions could interact by exchanging photons. This process could be accompanied by neutron emissions and particle production. We used 2020 ATLAS data to calculate the cross-section of mutual excitation for light-by-light scattering with neutron emissions. Our results were presented at the International Conference of High Energy Physics.*
+ - *I attended several lectures on particle physics, particle
+   accelerators, particle detectors, statistical methods, ROOT, and
+   Hypatia. Then we were assigned to our supervisors to work on selected
+   projects. In an ultra-peripheral heavy-ion collision, two ions could
+   interact by exchanging photons. This process could be accompanied by
+   neutron emissions and particle production. We used 2020 ATLAS data to
+   calculate the cross-section of mutual excitation for light-by-light
+   scattering with neutron emissions. Our results were presented at the
+   International Conference of High Energy Physics.*
 
 *You can see the final presentation [here](https://drive.google.com/file/d/1zu3k6mvgGwoZEw99uvXuk2yqzAgP8eSu/view?usp=sharing)*.
 
@@ -193,11 +216,15 @@ March 2018
 
 *Passed Courses:*
 
- *- Advanced Python Programming and Object-Oriented Thinking Course*
+ - *Advanced Python Programming and Object-Oriented Thinking Course*
+
  
- *- Programming using MATLAB (60 educational hours)*
+
+ - *Programming using MATLAB (60 educational hours)*
+
  
- *- Task-Oriented Course in Fundamentals of C Programming and Algorithmic
+
+ - *Task-Oriented Course in Fundamentals of C Programming and Algorithmic
    Thinking*
 
 ## Language Skills
