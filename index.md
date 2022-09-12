@@ -25,7 +25,7 @@ mm.mobin.moradi@gmail.com
 
 ## Research Interests
 
-Generally, I am interested in utilizing condensed matter techniques to tackle problems in high-energy physics. The rich history of their interplay, especially in the early days of particle theory, hints at a direction where solid progress is still possible. I hope that by studying the dynamics of strongly correlated systems, one could unravel the quantum nature of gravity.
+Generally, I am interested in utilizing condensed matter techniques to tackle problems in high energy physics. The rich history of their interplay, especially in the early days of particle theory, hints at a direction where solid progress is still possible. I hope that by studying the dynamics of strongly correlated systems, one could unravel the quantum nature of gravity.
 
 Additionally, two problems wander in the back of my mind and intrigue me to work on them now and then.
 
