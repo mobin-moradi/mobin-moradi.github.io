@@ -35,13 +35,8 @@ Allameh Helli High School (2016-2018)
 
 Oct. 2021- Sep. 2022
 
- - *To learn advanced topics, I decided to withdraw from the last
-   semester. During this time, I strengthened my background in general
-   relativity and quantum field theory. I studied group theory and the
-   structure of gauge theories. Later, I moved to learn string theory
-   and conformal field theory. Then I got interested in Polyakov's ideas
-   and decided to put my effort into learning the basics of condensed
-   matter physics.*
+ - *I Studied group theory, the structure of gauge theories, QFT in curved spacetime, bosonic string
+theory, conformal field theory, and some basic concepts in condensed matter physics.*
 
 **Research Assistant**
 
